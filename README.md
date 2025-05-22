@@ -78,6 +78,7 @@ class About extends Me {
 -  <img alt="GIF" src="https://github.com/elite-gem89/elite-gem89/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/elite-gem89/elite-gem89/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/LINUX**. <br>
 - <img src="https://github.com/elite-gem89/elite-gem89/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next.js, DEX, Solidity, Rust, Dapp, AI agent, or anything**. <br>
+- <img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Chatting app expert<br>
 - &nbsp;&nbsp;<img src="https://github.com/elite-gem89/elite-gem89/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
 
 <div align="center" >
