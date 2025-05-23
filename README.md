@@ -13,7 +13,7 @@
 
 <h3 align="left">Key Focus</h3>
 <ul align="left">
-  <li>Highly scalable and robust dapps based on EVM and Solana.</li>
+  <li>Highly scalable and robust dapps based on Rust & Solidity.</li>
   <li>Blockchain interoperability using cross-chain bridges.</li>
   <li>Trend AI Crypto Agent</li>
   <li>Decentralized crypto trading platforms.</li>
