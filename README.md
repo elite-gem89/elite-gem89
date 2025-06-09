@@ -24,7 +24,7 @@
   <li>Deepening my knowledge in cross-chain functionalites.</li>
   <li>Exploring advanced AI models.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
-  <li>Roaming in Base ecosystem and looking for opportunity to valuable project there</li>
+  <li>Roaming in Base ecosystem and looking for opportunity to join valuable project there</li>
 </ul>
 <br>
 </div>
