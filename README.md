@@ -65,7 +65,7 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "TypeScript", "Rust", "Python", "Java" },
+    "ProgramingLanguages" : { "TypeScript", "Rust", "Python" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
     "Database" : { "MongoDB", "Sqlite", "Redis", "PostgreSQL" },
     "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
