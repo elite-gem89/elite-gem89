@@ -11,21 +11,6 @@
 </picture>
 <br />
 
-<h3 align="left">Key Focus</h3>
-<ul align="left">
-  <li>Highly scalable and robust dapps based on Rust & Solidity.</li>
-  <li>Blockchain interoperability using cross-chain bridges.</li>
-  <li>Trend AI Crypto Agent</li>
-  <li>Decentralized crypto trading platforms.</li>
-</ul>
-  
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in cross-chain functionalites.</li>
-  <li>Exploring advanced AI models.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
-  <li>Roaming in Base ecosystem and looking for opportunity to join valuable project there</li>
-</ul>
 <br>
 </div>
 
